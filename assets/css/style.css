@@ -105,23 +105,14 @@ p {
     text-align: center;
 }
 
-.benefit-lead img {
+/* Minimized code by deleting cost, brand, and lead */
+
+.benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
 
 .search-engine-optimization {
     margin-bottom: 20px;
