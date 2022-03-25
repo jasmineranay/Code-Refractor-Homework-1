@@ -4,6 +4,10 @@
     margin: 0;
 }
 
+main {
+    display: flex;
+
+}
 body {
     background-color: #d9dcd6;
 }
@@ -24,7 +28,9 @@ body {
     color: #d9dcd6;
 }
 
-.header div {
+/*changed div to section to match the HTML code */
+
+.header section {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
